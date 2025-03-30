@@ -2,6 +2,15 @@
 
 <section xml:id="college-information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>College Information</title>
+  <subsection>
+	  <title>College Address</title>
+	  <p>
+		  <line><em>Oregon Coast Community College</em></line>
+		  <line>Central County Campus</line>
+          <line>400 SE College Way</line>
+		  <line>Newport, OR 97366</line>
+	  </p>
+  </subsection>
   <subsection xml:id="subsec-land-acknowledgement">
 	  <title>Land Acknowledgement</title>
 	  <p>
