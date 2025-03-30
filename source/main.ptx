@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <!-- we first include a file which contains the docinfo element: -->
+  <xi:include href="./docinfo.ptx" />
+
+  <article xml:id="mth-20-syllabus">
+    <title>Syllabus</title>
+    <subtitle>MTH 251 Calculus I</subtitle>
+
+    <!-- Include frontmatter -->
+    <xi:include href="./frontmatter.ptx" />
+
+    <!-- Include chapters -->
+    <xi:include href="./ch/college-information.ptx" />
+    <xi:include href="./ch/course-description.ptx" />
+    <xi:include href="./ch/instructor.ptx" />
+    <xi:include href="./ch/materials.ptx" />
+    <xi:include href="./ch/attendance.ptx" />
+    <xi:include href="./ch/grades.ptx" />
+    <xi:include href="./ch/policies.ptx" />
+    <xi:include href="./ch/student-resources.ptx" />
+    <xi:include href="./ch/calendar.ptx" />
+
+
+    <!-- Include backmatter -->
+    <xi:include href="./backmatter.ptx" />
+
+  </article>
+</pretext>

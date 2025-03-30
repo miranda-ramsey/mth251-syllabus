@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="instructor" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Instructor Information</title>
+  <subsection xml:id="subsec-contact">
+    <title>Contact</title>
+  <p>
+    To reach me:
+  </p>
+    <p>
+      <dl>
+        <li>
+          <title>Instructor</title>
+          <p>Miranda Ramsey</p>
+        </li>
+        <li>
+          <title>Office</title>
+		  <p><url href="https://oregoncoast.zoom.us/my/miranda.ramsey">Zoom ID 260 344 2607</url></p>
+        </li>
+		<!--
+        <li>
+          <title>Phone</title>
+          <p>971-722-3542<fn>Voicemail only. Not a good way to reach me.</fn></p>
+		</li>
+		-->
+        <li>
+          <title>Email</title>
+          <p><email>miranda.ramsey@oregoncoast.edu</email></p>
+        </li>
+        <li>
+          <title>Address</title>
+          <p>
+          <line>Oregon Coast Community College</line>
+		  <line>Central County Campus</line>
+          <line>400 SE College Way</line>
+          <line>Newport, OR 97366</line>
+          </p>
+        </li>
+      </dl>
+    </p>  
+  </subsection>
+
+  <subsection xml:id="communication">
+  <title>Communication</title>
+    <p>
+      I highly encourage you to exchange information with your peers, 
+      especially those you are working with in groups, to work together outside
+		of class. Email, group chats, Zoom meetings, and Discord servers are all 
+		excellent ways to connect and collaborate.
+    </p>
+	<!--
+    <p>
+      The best way to contact me is through email. I check my email often! 
+      please email me at <email>miranda.ramsey@oregoncoast.edu</email>. Due to federal 
+      privacy laws, <alert>We must use your OCCC email address to communicate,</alert> 
+      so make sure you are contacting me from your OCCC email address or through Canvas,
+	  and checking your OCCC email regularly for my replies.
+	</p>
+	-->
+    <p>
+      Emails sent on weekdays will be answered within 24 hours. Emails sent
+      over a weekend or holiday will be answered the following scheduled school
+      day.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-office-hours">
+    <title>Office Hours</title>
+  <p>
+  I have scheduled office hours where you can come see me in person, or we can schedule a Zoom appointment as needed. I encourage 
+  you to come to office hours whenever you need additional help.
+  </p>
+  <tabular top="major" valign="top" left="major" bottom="minor">
+    <col/>
+    <col/>
+    <col right="major"/>
+    <row header="yes" bottom="minor" >
+      <cell>Day</cell>
+      <cell>Location</cell>
+      <cell>Time</cell>
+    </row>
+    <row>
+      <cell>
+        <line>Thursdays</line>
+      </cell>
+      <cell>
+        <line><url href="https://oregoncoast.zoom.us/my/miranda.ramsey">Zoom ID 260 344 2607</url></line>
+      </cell>
+      <cell>
+        <line>16:00<ndash/>16:50</line>
+      </cell>
+    </row>
+    <row bottom="major">
+      <cell>
+        <line>Fridays</line>
+      </cell>
+      <cell>
+        <line><url href="https://oregoncoast.zoom.us/my/miranda.ramsey">Zoom ID 260 344 2607</url></line>
+      </cell>
+      <cell>
+        <line>By Appointment</line>
+      </cell>
+    </row>
+  </tabular>
+  </subsection>
+  <subsection xml:id="subsec-approach">
+    <title>Instructional Approach</title>
+    <introduction>
+      <p>
+      Mathematics has an unfortunate reputation for being a challenging subject that only some people are capable of engaging with. I strongly believe that this is not true, and that more people are capable of mathematics than we give credit to. My goal is to facilitate creativity and discovery, rather than simply dictating facts and procedures to memorize. In my lectures I set out to establish a question that can ground us and give us context for the math we are working with, and through group work students will be encouraged to talk through problems, ask for help, and lift each other up. 
+      </p>
+    </introduction>
+<subsubsection xml:id="subsec-weekly-structure">
+  <title>Weekly Structure</title>
+  <p>
+    To perform best in the class, each week you should:
+    <dl>
+      <li>
+        <title>Read Ahead</title>
+        <p>
+          Read the textbook material ahead of the days we will be covering it in class, so that you can ask questions and get clarification during lectures and group work.
+        </p>
+      </li>
+      <li>
+        <title>Do Homework As We Go</title>
+        <p>
+          Work on the homework throughout the week, rather than waiting until the end of the week. This way, challenging problems can be brought up in class with me or with your group.
+        </p>
+      </li>
+      <li>
+        <title>Come to Office Hours</title>
+        <p>
+          Visit me in Office Hours to fill in gaps in your understanding, before they become stressful issues.
+        </p>
+      </li>
+    </dl>
+  </p>
+  </subsubsection>
+  </subsection>
+
+  <subsection xml:id="subsec-my-schedule">
+    <title>My Schedule</title>
+    <tabular top="major" valign="top" left="major" bottom="minor">
+    <col/>
+    <col/>
+    <col/>
+    <col right="major"/>
+    <col right="major"/>
+    <col right="major"/>
+    <row header="yes" bottom="medium">
+      <cell>Class</cell>
+      <cell>Days</cell>
+      <cell>Time</cell>
+      <cell>Place</cell>
+      <cell>Midterm</cell>
+      <cell>Final</cell>
+    </row>
+    <row bottom="major">
+      <cell>MTH 251-Z1</cell>
+      <cell>TR</cell>
+      <cell>17:00<ndash/>19:00</cell>
+      <cell></cell>
+      <cell>TBD</cell>
+	  <cell>Tuesday 6/10</cell>
+    </row>
+  </tabular>
+  <p>
+    Exams are in class starting at the usual class time. For details, see
+	  <xref text="title" ref="subsec-exams"/>. 
+  </p>
+
+  </subsection>
+
+</section>

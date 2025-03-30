@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="student-resources" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>College Information</title>
+  <subsection xml:id="subsec-accomodations">
+    <title>Accomodations</title>
+	<p>
+		In compliance with the Americans with Disabilities Act (ADA), Oregon Coast Community College provides reasonable accomodation to students with disabilities.
+		If you desire reasonable accomodation, or have any other questions regarding accomodations, please contact Student Accessibility Services office (400 SE 
+		College Way, Newport, OR 97366)	at <phone>541-867-8505</phone> or at <email>access@oregoncoast.edu</email>.	Students are responsible for requesting, in a 
+		timely manner, accoodation and documenting the nature and extent of their disability.
+    </p>
+	<p>
+		De conformidad con la Ley de Estadounidenses con Discapacidades (American with Disabilities Act, ADA), Oregon Coast Community College ofrece adaptaciones razonables 
+		o acomodaciones. Si desea una adaptación razonable, comuníquese con la oficina de Servicios de Accesibilidad para Estudiantes (400 SE College Way, Newport, OR 97366) 
+		al <phone>541-867-8505</phone> o en <email>access@oregoncoast.edu</email>.
+    </p>
+	<p>
+		For additional information, visit the <url href="https://oregoncoast.edu/disabilities/">Student Accessibility Services</url> website.
+	</p>
+  </subsection>
+  <subsection xml:id="subsec-occc-email">
+	  <title>OCCC Email</title>
+	  <p>
+			  OCCC email is the official form of communication of Oregon Coast Community College. If you have any difficulties accessing your OCCC email address, please contact support at <email>helpdesk@oregoncoast.edu</email>.
+	  </p>
+  </subsection>
+
+  <subsection xml:id="subsec-emergency-funds">
+    <title>Emergency Funds</title>
+	<p>
+		If you are experiencing challenges securing food, transportation, or housing, or have other financial issues that are affecting your ability to attend and succeed 
+		in class(es), we encourage you to apply for emergency funds. Please call, email, or visit Student Services for assistance (<phone>541-867-8544</phone>). If you are 
+		comfortable doing so, please let your instructor know about your situation. This will allow for a better understanding and could potentially lead to further support 
+		and/or resources.
+    </p>
+  </subsection>
+</section>

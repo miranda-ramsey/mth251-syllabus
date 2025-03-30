@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="attendance" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Attendance</title>
+	<subsection xml:id="subsec-attendance-policy">
+		<title>Attendance Policy</title>
+		<p>
+			Students are expected to attend all classes in which they are enrolled. Repeated absences will affect a student’s grade.
+			Students are responsible for dropping or withdrawing from registered classes by completing the official drop/withdrawal 
+			process. Students who stop attending and who fail to drop or withdraw from a class by the published deadline may earn a 
+			grade of F or NP according to the grade system option selected by the Student. Students having excessive absences and 
+			who fail to drop or withdraw from a class by the published deadline may earn a grade of F or NP according to the grade 
+			system option selected by the Student. Students who fail to attend or stop attending classes and fail to drop those 
+			classes by the published drop deadline will be responsible for the associated tuition and fees. Students may not attend 
+			classes they are not registered for.
+		</p>
+	</subsection>
+	<subsection xml:id="subsec-first-week">
+		<title>First Week Activities</title>
+		<p>
+			To avoid being recorded as absent and possibly being dropped from the course per 
+			OCCC's <url href="https://oregoncoast.edu/wp-content/uploads/2025/03/AP-5070-Attendance-and-First-Week-Drop-for-Non-Attendance.pdf"> 
+			AP 5070 Attendance and First Week Drop for Non-Attendance Policy</url>, students must:
+			<ul>
+				<li>Attend at least one of the two class sessions in the first week<!--, AND</li>
+				<li>Post an introduction in the Canvas discussion forum before <alert>7PM on April 4th</alert>. --></li>
+			</ul>
+			If you anticipate not being able to meet these requirements for an exceptional reason, you must email me in advance.
+		</p>
+  </subsection>
+</section>

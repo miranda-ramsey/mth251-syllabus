@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="course-description" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Course Description</title>
+
+  <p>
+    Taken from the official OCCC course description:
+    <dl>
+      <li>
+        <title>Course Number</title>
+        <p>MTH 251-Z1</p>
+      </li>
+      <li>
+        <title>Course Title</title>
+        <p>Calculus I</p>
+      </li>
+      <li>
+        <title>Credit Hours</title>
+        <p>5</p>
+      </li>
+      <li>
+        <title>Lecture Hours</title>
+        <p>55</p>
+      </li>
+      <li>
+        <title>Prerequisites</title>
+        <p>
+          <line>MTH112, and</line>
+          <line>WR115 and RD115</line>
+		  or equivalent placement.
+        </p>
+      </li>
+    </dl>
+  </p>
+  <p>
+	  Includes limits, continuity, derivatives, and some applications of derivatives. Graphing technology is required, such as Desmos and/or GeoGebra which are available at not cost. 
+	  Audit available.
+  </p>
+  <p>
+	  Addendum: This is the first course of four courses in the Calculus sequence. Students will be required to have physical graphing calculators in MTH 251. Where physically possible, 
+	  instructors will demonstrate using Desmos, GeoGebra, or other online programs in class. Assessments requiring the use of a graphing calculator will be done outside of the 
+	  proctored exam component. 
+  </p>
+  <paragraphs>
+    <title>Learning Outcomes</title>
+    <p>
+      Upon completion of the course students should be able to:
+      <ol>
+        <li>
+          <p>
+			  Analyze real world scenarios to recognize when derivatives and limits are appropriate, formulate problems about the scenarios, creatively model these scenarios (using
+			  technology, if appropriate) in order to solve the problems using multiple approaches, judge if the results are reasonable, and then interpret and clearly communicate
+			  the results.
+          </p>
+        </li>
+        <li>
+          <p>
+			  Recognize derivatives and limit-related concepts that are encountered in the real world; understand and be able to communicate the underlying mathematics involved
+			  to help another person gain insight into the situation.
+          </p>
+        </li>
+        <li>
+          <p>
+			  Work with derivatives and limits in various situations and use correct mathematical terminology, notation, and symbolic processes in order to engage in work, study, and
+			  conversation on topics involving derivatives and limits with colleagues in the field of mathematics, science, or engineering.
+          </p>
+        </li>
+      </ol>
+    </p>
+  </paragraphs>
+  <!-- 
+  <p>
+    The complete Course Content and Outcome Guide can be found at
+    <url href="https://www.pcc.edu/ccog/" visual="www.pcc.edu/ccog">www.pcc.edu/ccog/</url>.
+  </p>
+  -->
+</section>

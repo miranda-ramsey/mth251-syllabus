@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="materials" xmlns:xi="http://www.w3.org/2001/XInclude">
+	<title>Class Materials</title>
+	<subsection xml:id="subsec-textbook">
+		<title>Textbook</title>
+		<p>
+			For this class we will be using <pubtitle>APEX Calculus, 4th Edition</pubtitle>. 
+				This course will cover material from chapters 1-4. Some releases of the text are divided into quarters; in that case, we are using the Q1 section.
+		</p>
+		<p>
+				There are multiple releases available:
+			<ul>
+				<li><url href = "https://spot.pcc.edu/math/APEXCalculus/">eText</url>for web viewing,</li>
+				<li><url href = "https://www.openintro.org/go?id=apex4-q1-color">Color PDF</url> for reading on a screen,</li>
+				<li><url href = "https://www.openintro.org/go?id=apex4-q1-bw">Black and White PDF</url> for black-ink printing, and</li>
+				<li><url href = "https://www.amazon.com/dp/172297317X/">Paperback</url> for purchase on Amazon.</li>
+			</ul>
+			You can find more information at <url href="https://apexcalculus.com"/>.
+		</p>
+	</subsection>
+	<subsection xml:id="subsec-supplies">
+		<title>Supplies</title>
+	</subsection>
+	<subsection xml:id="subsec-technology">
+		<title>Technology</title>
+		<p>
+			<ul>
+				<li>A computer with webcam, speakers, and microphone for attending class sessions over Zoom</li>
+				<li>A graphing calculator</li>
+			</ul>
+		</p>
+	</subsection>
+</section>

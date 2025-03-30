@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="calendar" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Calendar</title>
+  <subsection xml:id="subsec-course-calendar">
+    <title>Course Calendar</title>
+    <p> Note that the specific dates of material and assignments in this 
+    calendar are subject to change as needed during the term. </p>
+  <tabular valign="top" top="major" left="major" bottom="major" right="major">
+    <col right="minor"/>
+    <col right="minor"/>
+    <col right="minor"/>
+    <col />
+    <row header="yes" bottom="minor" >
+      <cell>Week</cell>
+      <cell>Reading</cell>
+      <cell>Tuesday</cell>
+      <cell>Thursday</cell>
+      <cell>Assignments</cell>
+    </row>
+    <row bottom="minor">
+      <cell>3/31-4/6</cell>
+	  <cell>Sections 1.1-1.3</cell>
+	  <cell>
+		  <line>Syllabus</line>
+		  <line>Introduction to Limits</line>
+	  </cell>
+	  <cell>
+		  <line>Epsilon-Delta</line>
+		  <line>Limit Properties</line>
+	  </cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">      
+      <cell>4/7-4/13</cell>
+	  <cell>Sections 1.4-1.6</cell>
+	  <cell>
+		  <line>One-Sided Limits</line>
+		  <line>Continuity</line>
+	  </cell>
+	  <cell>Limits at Infinity</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">      
+      <cell>4/14-4/20</cell>
+	  <cell>Sections 2.1-2.4</cell>
+	  <cell>The Derivative</cell>
+	  <cell>Differentiation Rules</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">      
+      <cell>4/21-4/27</cell>
+	  <cell>Sections 2.5-2.6</cell>
+	  <cell>The Chain Rule</cell>
+	  <cell>Implicit Differentiation</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>4/28-5/4</cell>
+	  <cell>Section 2.7</cell>
+	  <cell>Inverse Functions</cell>
+	  <cell>Review</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>5/5-5/11</cell>
+	  <cell>Section 3.1</cell>
+	  <cell>Midterm Exam</cell>
+      <cell>
+        <line>Midterm Feedback</line>
+		<line>Extreme Values</line>
+      </cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>5/12-5/18</cell>
+	  <cell>Sections 3.2-3.4</cell>
+	  <cell>
+		  <line>Mean Value Theorem</line>
+		  <line>Function Behavior</line>
+	  </cell>
+	  <cell>Second Derivative</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>5/19-5/25</cell>
+	  <cell>Sections 4.1-4.2</cell>
+	  <cell>Newton's Method</cell>
+	  <cell>Related Rates</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>5/26-6/1</cell>
+	  <cell>Sections 4.3-4.4</cell>
+	  <cell>Optimization</cell>
+	  <cell>Differentials</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row bottom="minor">
+      <cell>6/2-6/8</cell>
+	  <cell>Section 5.1</cell>
+	  <cell>Antiderivatives</cell>
+	  <cell>Review</cell>
+      <cell>
+		<line>TBD</line>
+      </cell>
+    </row>
+    <row>
+      <cell>6/9-6/15</cell>
+      <cell></cell>
+      <cell><em>Final Exam</em></cell>
+      <cell>
+        <line><em>No Class</em></line>
+        <line>(Finals Week)</line>
+      </cell>
+      <cell></cell>
+    </row>
+  </tabular>
+  </subsection>
+  
+  <subsection xml:id="subsec-important-dates">
+    <title>Important Dates</title>
+    <p>
+      See the <url href = "https://oregoncoast.edu/wp-content/uploads/2024/09/2024-25-OCCC-Academic-Calendar-v8-29-24.pdf">2024-2025 Academic Calendar</url>
+      for more information.
+    </p>
+    <tabular valign="top" top="major" left="major" bottom="major" right="major">
+        <col right="minor"/>
+        <col />
+        <row bottom="minor">
+          <cell>First Day</cell>
+          <cell>
+            <line>Tuesday, April 1</line>
+          </cell>
+        </row>
+        <row bottom="minor">
+          <cell>Self-Registration</cell>
+          <cell>
+            <line>Wednesday, April 2</line>
+			<line>Last day to register without instructor permission</line>
+          </cell>
+        </row>
+        <row bottom="minor">
+          <cell>Add/Drop Deadline</cell>
+          <cell>
+            <line>Friday, April 4</line>
+            <line>Last day to register for the class with instructor permission</line>
+            <line>Last day to drop for a refund.</line>
+          </cell>
+        </row>
+        <row bottom="minor">
+          <cell>Midterm Exam</cell>
+          <cell>
+            <line>TBD</line>
+            <line>In Class. See <xref ref="subsec-exams"/>.</line>
+          </cell>
+        </row>
+        <row bottom="minor">
+          <cell>Withdraw Deadline</cell>
+          <cell>
+            <line>Friday, May 23</line>
+            <line>Last day to withdraw (no refund, W on transcript)</line>
+            <line>Last day to change grade option.</line>
+          </cell>
+        </row>
+        <row bottom="minor">
+          <cell>Final Exam</cell>
+          <cell>
+            <line>Wednesday, June 11</line>
+            <line>2 PM, approximately 2 hours. See <xref ref="subsec-exams"/>.</line>
+          </cell>
+        </row>
+        <row>
+          <cell>Grades Available</cell>
+          <cell>
+            Tuesday, June 17
+          </cell>
+        </row>
+    </tabular>
+  </subsection>
+
+  <!-- include sections -->
+  <!--
+  <xi:include href="sec-section-name.ptx" />
+  -->
+</section>

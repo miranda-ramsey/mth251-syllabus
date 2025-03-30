@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<section xml:id="policies" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Policies</title>
+  <introduction>
+    <p>
+		Visit the <url href="https://oregoncoast.edu/academic-policies-new/">OCCC Academic Policies</url> page and the 
+		<url href = "https://oregoncoast.edu/college-practices-and-procedures/">College Practices and Procedures</url> page for information on:
+      <ul>
+		  <li>Academic Integrity</li>
+		  <li>Academic Freedom</li>
+		  <li>Class Cancellations</li>
+		  <li>Grade Definitions</li>
+		  <li>Transcripts and Credit policies</li>
+		  <li>Additional school-related Academic Policies</li>
+		  <li>Computer Use Guidelines</li>
+		  <li>Student Discipline/Guidelines for Student Conduct</li>
+		  <li>Student Records policy and FERPA</li>
+		  <li>And additional school policies.</li>
+      </ul>
+    </p>
+  </introduction>
+  <subsection xml:id="subsec-student-conduct">
+    <title>Student Conduct</title>
+    <subsubsection xml:id="subsubsec-academic-integrity">
+      <title>Academic Integrity</title>
+      <p>
+		  Learning is built on the fundamental qualities of honesty, fairness, respect, and trust. At Oregon Coast Community College, 
+		  academic integrity is a shared endeavor characterized by truth, personal responsibility and high academic standards. Any violation 
+		  of academic integrity devalues the individual and the community. One important aspect of academic integrity is academic honesty.
+	  </p>
+	  <p>
+		  Violations of academic honesty include:
+		  <ul>
+			  <li>Plagiarism</li>
+			  <li>Collusion/Inappropriate Assistance</li>
+			  <li>Cheating</li>
+			  <li>Fabrication/Falsification/Alteration</li>
+			  <li>Unauthorized Multiple Submission</li>
+			  <li>Sabotage and Tampering</li>
+		  </ul>
+		  A student who violates academic honesty will be subject to disciplinary action according to Student Rights and Responsibilities.
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="subsubsec-mobile-devices">
+      <title>Mobile Communication Devices</title>
+      <p>
+		  Students are not permitted to operate cell phones or pagers during class or laboratory sessions, as these devices disrupt 
+		  learning and teaching activities. Students should use such communication devices only during class breaks outside the classrooms.
+		  Discuss exceptions with Instructor. 
+      </p>
+    </subsubsection>
+    <subsubsection xml:id="subsubsec-student-rights">
+      <title>Student Rights and Responsibilities</title>
+      <p>
+		  The Student Rights and Responsibilities in the <url href="https://catalog.oregoncoastcc.org/student-handbook">Student Handbook</url> 
+		  establishes students’ freedom and protections as well as expectations of appropriate behavior and ethical academic work.
+      </p>
+    </subsubsection>
+
+    <subsubsection xml:id="ai-statement">
+      <title>Artificial Intelligence Statement</title>
+
+      <p>
+        The use of generative AI and Language Learning Models in this course 
+        such as, but not limited to ChatGPT, should be used only if it does not 
+        otherwise violate the Academic Integrity Policy of the College. Such 
+        violations include turning in work that is not your own.
+      </p>
+      <p>
+        In this class specifically, while generative AI and language learning 
+        models can be useful tools for summarizing and presenting 
+		  information, leaning on such tools when you are trying to learn something 
+		  yourself, even in ways that seem to be academically honest, can 
+        instill a dependency that is really challenging to let go of later. 
+        <alert>I highly recommend avoiding the use of tools like ChatGPT, even 
+        as a study assistant!</alert> Please ask me for help instead. 
+      </p>
+    </subsubsection>
+  </subsection>
+
+  <subsection xml:id="subsec-sanctuary">
+    <title>Undocumented Students Statement</title>
+    <p>
+		Oregon Coast Community College welcomes all students regardless of their citizenship status.
+		For more information and resources, see the <url href="https://oregoncoast.edu/undocumented-students/">
+      Resources for Undocumented Students</url> page.
+    </p>
+  </subsection>
+
+  <subsection xml:id="subsec-flexibility">
+    <title>Syllabus Changes</title>
+    <p>
+		This syllabus serves only as a guide to this course. The instructor reserves the right to change any 
+		part of this syllabus at any time due to any variety of circumstances. Methods and criteria used to 
+		evaluate student performance may also change. If and when changes occur, students will be informed 
+		in writing. Students are responsible to keep informed of syllabus changes as they occur by attending 
+		and participating in class and communicating with the instructor.
+    </p>
+  </subsection>
+</section>
